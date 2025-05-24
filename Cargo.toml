@@ -5,6 +5,6 @@ edition = "2024"
 
 [dependencies]
 actix-web = "4"
-async-graphql = "6"
+async-graphql = "7"
 async-graphql-actix-web = "6"
 tokio = { version = "1", features = ["rt-multi-thread", "macros"] }
